@@ -3,7 +3,7 @@ import Navbar from '../components/Navbar'
 
 const Dashboard = () => {
   return (
-    <div>
+    <div className='bg-green-400'>
         <Navbar/>
 
         <div>
